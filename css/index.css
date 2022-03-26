@@ -2,3 +2,11 @@ body {
 	display: grid;
 	grid-template-columns: 2fr 8fr
 }
+
+#show-panel{
+	margin-left:  50px;
+}
+
+#b-button{
+	visibility: hidden;
+}
